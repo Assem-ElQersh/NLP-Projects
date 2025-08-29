@@ -143,14 +143,14 @@ Then open http://localhost:8501 in your browser.
 
 | Task | Dataset | Model | Performance | Key Features |
 |------|---------|-------|-------------|--------------|
-| 1 | IMDB | Logistic Regression | High Accuracy | Sentiment classification |
-| 2 | AG News | TF-IDF + SVM | Good multiclass performance | News categorization |
-| 3 | Fake News | Multiple classifiers | High accuracy | Fake news detection |
-| 4 | CoNLL-2003 | spaCy NER | Effective extraction | Named entity recognition |
-| 5 | BBC News | LDA/NMF | Coherent topics | Topic modeling |
-| 6 | SQuAD v1.1 | BERT/DistilBERT | High EM/F1 | Question answering |
-| 7 | CNN-DailyMail | T5/BART/Pegasus | Good ROUGE scores | Text summarization |
-| 8 | Resume-Job | TF-IDF + Ridge | R² = 0.624 | Resume screening |
+| 1 | [IMDB](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | Logistic Regression | High Accuracy | Sentiment classification |
+| 2 | [AG News](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) | TF-IDF + SVM | Good multiclass performance | News categorization |
+| 3 | [Fake News](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) | Multiple classifiers | High accuracy | Fake news detection |
+| 4 | [CoNLL-2003](https://www.kaggle.com/datasets/alaakhaled/conll003-englishversion) | spaCy NER | Effective extraction | Named entity recognition |
+| 5 | [BBC News](https://www.kaggle.com/datasets/gpreda/bbc-news) | LDA/NMF | Coherent topics | Topic modeling |
+| 6 | [SQuAD v1.1](https://www.kaggle.com/datasets/akashdesarda/squad-v11) | BERT/DistilBERT | High EM/F1 | Question answering |
+| 7 | [CNN-DailyMail](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail) | T5/BART/Pegasus | Good ROUGE scores | Text summarization |
+| 8 | [Resume-Job](https://www.kaggle.com/datasets/shamimhasan8/resume-vs-job-description-matching-dataset) | TF-IDF + Ridge | R² = 0.624 | Resume screening |
 
 ## 🔧 Technical Implementation Details
 
